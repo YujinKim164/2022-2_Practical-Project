@@ -1,4 +1,4 @@
-package main.java.com.mycom.word;
+package com.mycom.word;
 
 import java.util.Scanner;
 

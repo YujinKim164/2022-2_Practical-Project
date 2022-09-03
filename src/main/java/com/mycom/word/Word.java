@@ -1,4 +1,4 @@
-package main.java.com.mycom.word;
+package com.mycom.word;
 
 public class Word {
     private int id;

@@ -1,4 +1,4 @@
-package main.java.com.mycom.word;
+package com.mycom.word;
 
 public interface ICRUD {
     public Object add();
