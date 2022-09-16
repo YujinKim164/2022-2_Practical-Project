@@ -69,7 +69,7 @@ public class WordCRUD implements ICRUD{
         System.out.println("--------------------------------------");
         return idlist;
     }
-////
+
     public void listAll(int level) {
         int j = 0;
         System.out.println("--------------------------------------");
