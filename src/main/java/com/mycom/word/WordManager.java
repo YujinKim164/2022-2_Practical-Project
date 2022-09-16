@@ -11,7 +11,6 @@ public class WordManager {
     public int selectMenu() {
         System.out.print("""
                 *** 영단어 마스터 ***
-                
                 *******************
                 1. 모든 단어 보기
                 2. 수준별 단어 보기
@@ -20,21 +19,37 @@ public class WordManager {
                 5. 단어 수정
                 6. 단어 삭제
                 7. 파일 저장
-                8. 나가기
+                0. 나가기
                 ********************
                 => 원하는 메뉴는?\s""");
         return s.nextInt();
 
     }
     public void start() {
+        wordCRUD.loadFile();
         while(true) {
             int menu = selectMenu();
             if(menu == 0) break;
             if(menu == 4){
-                wordCRUD.addWord();
+                wordCRUD.addItem();
             }
             else if (menu == 1){
                wordCRUD.listAll();
+            }
+            else if (menu == 2){
+                wordCRUD.searchLevel();
+            }
+            else if (menu == 3){
+                wordCRUD.searchWord();
+            }
+            else if (menu == 5){//update
+                wordCRUD.updateItem();
+            }
+            else if (menu == 6){//delete
+                wordCRUD.deleteItem();
+            }
+            else if (menu == 7){//save data
+                wordCRUD.saveFile();
             }
         }
     }
