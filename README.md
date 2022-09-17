@@ -29,6 +29,7 @@ Intellij라는 새로운 IDE를 설치하면서 적응하는 데에는 시간이
 현재까지 건의사항은 따로 없습니다.
 
 
+
 ## 2단계 최종보고서 - 수정 및 삭제, 검색, 파일 저장 및 로딩 기능구현
 #### [2. 수준별 단어보기]
 
@@ -50,6 +51,7 @@ Intellij라는 새로운 IDE를 설치하면서 적응하는 데에는 시간이
 
 ![saveFile](https://github.com/YujinKim164/2022-2_Practical-Project/blob/main/screenshots/%ED%8C%8C%EC%9D%BC%20%EC%A0%80%EC%9E%A5.JPG?raw=true)
 
+#### [저장된 데이터 파일]
 ![savedDataFile](https://github.com/YujinKim164/2022-2_Practical-Project/blob/main/screenshots/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%8C%8C%EC%9D%BC.JPG?raw=true)
 
 #### [1. 모든 단어보기]
