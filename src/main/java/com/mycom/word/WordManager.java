@@ -36,10 +36,10 @@ public class WordManager {
             else if (menu == 1){
                wordCRUD.listAll();
             }
-            else if (menu == 2){
+            else if (menu == 2){//level
                 wordCRUD.searchLevel();
             }
-            else if (menu == 3){
+            else if (menu == 3){//word
                 wordCRUD.searchWord();
             }
             else if (menu == 5){//update
