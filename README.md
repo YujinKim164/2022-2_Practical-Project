@@ -30,3 +30,23 @@ Intellij라는 새로운 IDE를 설치하면서 적응하는 데에는 시간이
 
 
 ## 2단계 최종보고서 - 수정 및 삭제, 검색, 파일 저장 및 로딩 기능구현
+#### [2. 수준별 단어보기]
+
+![searchLevel](https://raw.githubusercontent.com/YujinKim164/2022-2_Practical-Project/dd0855234111d0fa4020fb52448e6e5102747ebe/screenshots/%EC%88%98%EC%A4%80%EB%B3%84%20%EB%8B%A8%EC%96%B4%EB%B3%B4%EA%B8%B0.JPG)
+
+#### [3. 단어 검색]
+
+![searchWord](https://github.com/YujinKim164/2022-2_Practical-Project/blob/main/screenshots/%EB%8B%A8%EC%96%B4%20%EA%B2%80%EC%83%89.JPG?raw=true)
+
+####[5. 단어 수정]
+
+![updateItem](https://github.com/YujinKim164/2022-2_Practical-Project/blob/main/screenshots/%EB%8B%A8%EC%96%B4%20%EC%88%98%EC%A0%95.JPG?raw=true)
+
+####[6. 단어 삭제]
+
+![deleteItem](https://github.com/YujinKim164/2022-2_Practical-Project/blob/main/screenshots/%EB%8B%A8%EC%96%B4%20%EC%82%AD%EC%A0%9C.JPG?raw=true)
+
+####[7. 파일 저장]
+
+![saveFile](https://github.com/YujinKim164/2022-2_Practical-Project/blob/main/screenshots/%ED%8C%8C%EC%9D%BC%20%EC%A0%80%EC%9E%A5.JPG?raw=true)
+
