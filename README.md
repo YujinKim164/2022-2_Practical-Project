@@ -45,7 +45,7 @@ Intellij라는 새로운 IDE를 설치하면서 적응하는 데에는 시간이
 
 #### [6. 단어 삭제]
 
-![deleteItem](https://github.com/YujinKim164/2022-2_Practical-Project/blob/main/screenshots/%EB%8B%A8%EC%96%B4%20%EC%82%AD%EC%A0%9C.JPG?raw=true)
+![deleteItem](https://github.com/YujinKim164/2022-2_Practical-Project/blob/main/screenshots/%EB%8B%A8%EC%96%B4%EC%82%AD%EC%A0%9C.JPG?raw=true)
 
 #### [7. 파일 저장]
 
