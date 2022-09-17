@@ -38,15 +38,15 @@ Intellij라는 새로운 IDE를 설치하면서 적응하는 데에는 시간이
 
 ![searchWord](https://github.com/YujinKim164/2022-2_Practical-Project/blob/main/screenshots/%EB%8B%A8%EC%96%B4%20%EA%B2%80%EC%83%89.JPG?raw=true)
 
-####[5. 단어 수정]
+#### [5. 단어 수정]
 
 ![updateItem](https://github.com/YujinKim164/2022-2_Practical-Project/blob/main/screenshots/%EB%8B%A8%EC%96%B4%20%EC%88%98%EC%A0%95.JPG?raw=true)
 
-####[6. 단어 삭제]
+#### [6. 단어 삭제]
 
 ![deleteItem](https://github.com/YujinKim164/2022-2_Practical-Project/blob/main/screenshots/%EB%8B%A8%EC%96%B4%20%EC%82%AD%EC%A0%9C.JPG?raw=true)
 
-####[7. 파일 저장]
+#### [7. 파일 저장]
 
 ![saveFile](https://github.com/YujinKim164/2022-2_Practical-Project/blob/main/screenshots/%ED%8C%8C%EC%9D%BC%20%EC%A0%80%EC%9E%A5.JPG?raw=true)
 
